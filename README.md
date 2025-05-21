@@ -1,4 +1,6 @@
 Insurance Claims Management App
+
+
 This is a simple insurance data management and analysis app built with Python and Streamlit.
 It allows users to register policyholders, add and track claims, analyze risk, and view reports with interactive charts.
 
