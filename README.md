@@ -1,8 +1,6 @@
-**Insurance Claims Management App**
-
-
 This is a simple insurance data management and analysis app built with Python and Streamlit.
-It allows users to register policyholders, add and track claims, analyze risk, and view reports with interactive charts.
+
+It allows users to:
 
 Register policyholders with policy details
 
@@ -12,15 +10,15 @@ Automatically flag high-risk policyholders
 
 View interactive reports:
 
-Bar chart: Policy registrations per month
+📊 Bar chart: Policy registrations per month
 
-Line chart: Claims per month
+📈 Line chart: Claims per month
 
-Metric cards: Average claim per policy type
+💳 Metric cards: Average claim per policy type
 
 Filter reports by policy type
 
-*** To Run App ****
+How to Run the App
 
 # Step 1: Clone the repository
 git clone https://github.com/Abishek74/Assigment-1.git
@@ -40,3 +38,5 @@ pip install -r requirements.txt
 
 # Step 6: Run the Streamlit app
 streamlit run app.py
+
+
