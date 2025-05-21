@@ -20,7 +20,7 @@ Metric cards: Average claim per policy type
 
 Filter reports by policy type
 
-*** **To Run App** ****
+*** To Run App ****
 
 # Step 1: Clone the repository
 git clone https://github.com/Abishek74/Assigment-1.git
